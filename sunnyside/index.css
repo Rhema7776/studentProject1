@@ -1,0 +1,11 @@
+.header_bg{
+    background-image: url(./images/image-header.jpg);
+    height: 700px;
+    background-size: cover;
+    color: white;
+    font-size: 100px;
+    padding-left: 14%;
+}
+nav{
+    background-image: url(./images/image-header.jpg);
+}
